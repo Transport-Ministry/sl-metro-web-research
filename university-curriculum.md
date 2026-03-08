@@ -98,6 +98,6 @@
 | Project | What It Does | Technologies Used | Status |
 |---------|-------------|-------------------|--------|
 | Personal Portfolio | Showcases my work | React Frontend - .Net Backend | Completed |
-| Jaya Automobile |Vehicle sale and Compare System||React Frontend- .Net Backend|
+| Jaya Automobile |Vehicle sale and Compare System|React Frontend- .Net Backend|ongoing|
 | Weather Analytics | Weather Analyze |Js / C# | Completed |
 | TravelHive| Search for Travel Destination|React And .net| Ongoing|
