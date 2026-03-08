@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** Dasuni Dinuththara Nagodavithana  
+**Date:** 2026-03-08 
+**Branch:** `doc/dasuni-research`
 
 ---
 
