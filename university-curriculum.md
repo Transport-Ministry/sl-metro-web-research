@@ -1,8 +1,8 @@
 # University Curriculum
 
-**Name:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Name:** Rankothge Kavishka Rasanjana Jayathissa   
+**Date:** 2026-03-08  
+**Branch:** `doc/kavishka-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Field | Details |
 |-------|---------|
-| University | University of Moratuwa / SLIIT / NSBM / (your university) |
-| Degree Program | BSc in Information Technology / Software Engineering |
-| Current Year | Year 2 – Semester 1 |
+| University | Horizon Campus |
+| Degree Program | BSc in Information Technology |
+| Current Year | Year 4 – Semester 1 |
 | Expected Graduation | 2026 |
 
 ---
@@ -21,13 +21,12 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (Python) | A | ✅ Yes |
+| Sem 1 | Programming Fundamentals (Python) | C+ | ✅ Yes |
 | Sem 1 | Database Management Systems | B+ | ✅ Yes |
-| Sem 2 | Object Oriented Programming (Java) | A- | ✅ Yes |
+| Sem 2 | Object Oriented Programming (Java) | B+ | ✅ Yes |
 | Sem 2 | Computer Networks | B | ✅ Yes |
-| Sem 2 | Web Technologies (HTML/CSS/JS) | A | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | B+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | A | ✅ Yes |
+| Sem 3 | Data Structures & Algorithms | B| ✅ Yes |
+| Sem 3 | Software Engineering Principles | A- | ✅ Yes |
 
 ---
 
@@ -35,31 +34,32 @@
 
 | Subject | Brief Description | How It Connects to This Project |
 |---------|------------------|----------------------------------|
-| Advanced Web Development | React, REST APIs | Frontend development for metro site |
-| Cloud Computing Basics | AWS / GCP intro | Hosting and deployment knowledge |
-| Mobile Application Development | Flutter / React Native | Metro mobile app in future |
-| UI/UX Design | Figma, wireframes | Design the metro website layout |
+| Advanced Web Development | React, REST APIs | Jaya Automobile Sale |
+| Backend development Development | .Net and Java Spring boot | Jaya Automobile Sale/Weather Analytics |
+| Cloud Computing Basics | AWS /Azure | Basic Hosting and deployment knowledge |
+| Mobile Application Development | Flutter | E-Fine-sl Final year Project |
+| UI/UX Design | Figma, wireframes | E-Fine-SL PRoject |
 
 ---
 
 ## 4. Skills I Have Gained
 
 ### Programming Languages
-- Python – intermediate
+- C# – intermediate
 - Java – intermediate
-- JavaScript – beginner-intermediate
+- JavaScript – beginner
 - HTML/CSS – comfortable
 
 ### Tools & Technologies
 - Git & GitHub – learning
+- Mongo DB / Firebase
 - MySQL / PostgreSQL – basic queries
 - Figma – beginner
-- VS Code – daily use
+- VS Code  / Intellij IDEA– daily use
 
 ### Concepts Understood
-- MVC architecture (basic)
+- MVC architecture (Normal)
 - REST API concepts
-- Agile/Scrum basics (from SE Principles subject)
 - Relational database design
 
 ---
@@ -70,11 +70,11 @@
 
 | Area | My Confidence Level | Notes |
 |------|--------------------|----|
-| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 2 small projects |
-| Backend (Node/Python) | ⭐⭐ Some experience | Only done in class exercises |
-| Databases | ⭐⭐ Basic | Can write SELECT/JOIN queries |
-| Git / GitHub | ⭐ Beginner | This is my first real Git activity |
-| UI/UX Design | ⭐⭐ Some | Used Figma once in a class assignment |
+| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | css and js using in React but comfortable |
+| Backend (Node/.Net/Springboot) | ⭐⭐ Some experience | make Project |
+| Databases | ⭐⭐ Normal | Can write SELECT/JOIN queries/Mongodb ANd Fire base use in some Projects |
+| Git / GitHub | ⭐ intermediate | This is my first real Git activity |
+| UI/UX Design | ⭐⭐ Some | Used Figma in Campus Projects |
 
 ---
 
@@ -87,6 +87,9 @@
 3. Understanding how to structure a proper web project
 4. How to write cleaner, more readable code
 5. Working with others using branches and pull requests
+6. Need to learn How Projects Work A to Z 
+7. need  to learn How Work with others in projects
+8. need to change path As a Devops Engineer
 
 ---
 
@@ -94,6 +97,7 @@
 
 | Project | What It Does | Technologies Used | Status |
 |---------|-------------|-------------------|--------|
-| Personal Portfolio | Showcases my work | HTML, CSS, JS | Completed |
-| Student Grade Calculator | Calculates GPA | Python | Completed |
-| Online Bookshop (class project) | CRUD app | PHP, MySQL | Completed |
+| Personal Portfolio | Showcases my work | React Frontend - .Net Backend | Completed |
+| Jaya Automobile |Vehicle sale and Compare System||React Frontend- .Net Backend|
+| Weather Analytics | Weather Analyze |Js / C# | Completed |
+| TravelHive| Search for Travel Destination|React And .net| Ongoing|
