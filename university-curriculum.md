@@ -1,8 +1,8 @@
 # University Curriculum
 
-**Name:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Name:** Dinusha Amarasinghe  
+**Date:** 2026-03-08  
+**Branch:** `doc/dinusha-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Field | Details |
 |-------|---------|
-| University | University of Moratuwa / SLIIT / NSBM / (your university) |
-| Degree Program | BSc in Information Technology / Software Engineering |
-| Current Year | Year 2 – Semester 1 |
+| University | NSBM |
+| Degree Program | BSc (Hons) Computer Networks |
+| Current Year | Year 3 – Semester 2 |
 | Expected Graduation | 2026 |
 
 ---
