@@ -2,7 +2,7 @@
 
 **Name:** Nilupuli Geethma  
 **Date:** 2026-03-08  
-**Branch:** `doc/nilupuli-research`
+**Branch:** `doc/nilupulee-research`
 
 ---
 
