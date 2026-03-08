@@ -21,7 +21,7 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (Python) | C+ | ✅ Yes |
+| Sem 1 | Programming Fundamentals (c+) | C+ | ✅ Yes |
 | Sem 1 | Database Management Systems | B+ | ✅ Yes |
 | Sem 2 | Object Oriented Programming (Java) | B+ | ✅ Yes |
 | Sem 2 | Computer Networks | B | ✅ Yes |
@@ -73,7 +73,7 @@
 | Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | css and js using in React but comfortable |
 | Backend (Node/.Net/Springboot) | ⭐⭐ Some experience | make Project |
 | Databases | ⭐⭐ Normal | Can write SELECT/JOIN queries/Mongodb ANd Fire base use in some Projects |
-| Git / GitHub | ⭐ intermediate | This is my first real Git activity |
+| Git / GitHub | ⭐ intermediate | some project done with git |
 | UI/UX Design | ⭐⭐ Some | Used Figma in Campus Projects |
 
 ---
