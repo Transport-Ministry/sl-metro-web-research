@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** Kavishka Rasanjana Jayathissa  
+**Date:** 2026-03-08  
+**Branch:** `doc/kavishka-research`
 
 ---
 
@@ -10,11 +10,12 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | Singapore | TransitLink | https://www.transitlink.com.sg | 2026-03-08 |
+| 2 | India | MTC Chennai | https://mtcbus.tn.gov.in/Home/fares | 2026-03-08 |
+| 3 | United Kingdom | Metrobus UK | https://www.metrobus.co.uk/ | 2026-03-08 |
+| 4 | Japan | Tokyo Metro | https://www.tokyometro.jp/en | 2026-03-08 |
 
-> ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
+> ⚠️ **Note:** I visited these websites and took my own screenshots which are saved in the `screenshots/` folder.
 
 ---
 
@@ -22,47 +23,55 @@
 
 ### 🔵 Singapore – TransitLink
 ![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
-- Fare calculator
-- Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- Very clean homepage.
+- Easy to use fare calculator.
+- Shows exactly how to use their travel cards.
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+**My observation:** The fare calculator is super useful. If a passenger knows the exact ticket price before getting on the bus or train, we can stop the daily arguments over balance money in Sri Lanka.
 
 ---
 
-### 🔴 London – Transport for London (TfL)
-![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-01*
+### 🟠 India – MTC Chennai
+![India MTC Chennai Fares](./screenshots/india-mtc.png)
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Live status updates for each line
-- Accessibility information (step-free access)
-- Oyster card / contactless payment info
-- Journey planner with multiple transport modes
-- Disruption alerts banner at the top
+- Shows bus fares based on "Stages" (Stage 1, Stage 2, etc.).
+- Details about daily passes and monthly passes.
+- Website design is a bit old and basic, but the information is very detailed.
 
-**My observation:** TfL handles disruptions very transparently. Sri Lanka could benefit from a clear "service status" section so passengers aren't confused during delays.
+**My observation:** This system is exactly like our SLTB (Langama) bus system. They calculate fares using stages just like we do. Even though their website doesn't look very modern, the way they have displayed the fare stage tables is a great practical example for our database design.
 
 ---
 
-### 🟠 Tokyo Metro
-![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+### 🔴 United Kingdom – Metrobus UK
+![UK Metrobus Homepage](./screenshots/uk-metrobus.png)
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Extremely detailed route map (interactive)
-- Tourist-focused features (English, Chinese, Korean)
-- Station facilities info (toilets, elevators, exits)
-- Lost and found section
-- IC card (Suica/Pasmo) information
+- Live bus tracking on a map.
+- Very modern and mobile-friendly design.
+- "Plan your journey" feature right on the front page.
+- Clear alerts if a bus is delayed or a route is changed.
 
-**My observation:** Tokyo provides station-level details which is great. For Sri Lanka, showing nearby landmarks for each station would help tourists.
+**My observation:** The live tracking feature is exactly what Sri Lanka needs. The biggest problem we face is waiting at the bus halt for hours not knowing if the bus will come or not. A live map like this would be a game changer for us.
+
+---
+
+### 🟢 Japan – Tokyo Metro
+![Japan Tokyo Metro Homepage](./screenshots/japan-tokyo-metro.png)
+*Screenshot taken: 2026-03-08*
+
+**Features noticed:**
+- Extremely detailed route map (interactive).
+- Tourist-focused features (English, Chinese, Korean).
+- Station facilities info (toilets, elevators, exits).
+- IC card (Suica/Pasmo) information.
+
+**My observation:** The punctuality and the level of detail provided by Tokyo Metro are amazing. For Sri Lanka, providing station-level details (like nearby landmarks and facilities) would be a huge help, especially for tourists trying to navigate our system.
 
 ---
 
@@ -70,35 +79,29 @@
 
 | Aspect | What I Noticed | Good for Sri Lanka? |
 |--------|---------------|---------------------|
-| Color scheme | Each system has a consistent brand color | ✅ Yes – use Sri Lankan national colors |
-| Navigation | Simple top nav with 4-5 main items | ✅ Yes – keep it minimal |
-| Mobile responsiveness | All three sites work well on phone | ✅ Must have |
-| Language support | Multiple languages available | ✅ Sinhala, Tamil, English needed |
-| Maps | Interactive SVG/JS maps | ✅ Priority feature |
-| Accessibility | TfL has the best accessibility info | ✅ Include for inclusivity |
+| Color scheme | Metrobus UK and Tokyo Metro use bright brand colors. | ✅ Yes – we need a clean, trusting color theme. |
+| Mobile responsiveness | UK, Japan, and Singapore sites work perfectly on mobile. | ✅ Must have. Most SL users will use mobile data. |
+| Language support | MTC India and Tokyo Metro focus heavily on multiple languages. | ✅ Must have Sinhala, Tamil, and English. |
+| Finding Info | UK site makes it very easy to find the next bus on the map. | ✅ Priority feature for our project. |
 
 ---
 
 ## 4. Suggested Features for Sri Lanka Metro Website
 
 ### Must Have
-- [ ] Interactive route map
-- [ ] Station list with nearby landmarks
-- [ ] Fare information
-- [ ] Operating hours
-- [ ] Sinhala / Tamil / English language toggle
+- [ ] Mobile-first responsive design.
+- [ ] Live bus tracking map (Like Metrobus UK).
+- [ ] Stage-based fare calculator (Like MTC India).
+- [ ] Sinhala / Tamil / English language toggle.
 
 ### Good to Have
-- [ ] Real-time train status
-- [ ] Journey planner
-- [ ] Mobile app link
-- [ ] News & announcements section
-- [ ] Contact / lost & found
+- [ ] Digital daily/monthly passes.
+- [ ] Live alerts for broken down buses or traffic delays.
+- [ ] Clear station and landmark details (Like Tokyo Metro).
 
 ### Future Consideration
-- [ ] Tourist guide integration
-- [ ] QR code ticketing info
-- [ ] Accessibility guide per station
+- [ ] Connecting train times with bus times.
+- [ ] Buying tickets directly from the website.
 
 ---
 
@@ -106,14 +109,15 @@
 
 > *Write this in your own words. What did you personally find most useful? What do you think Sri Lanka needs most?*
 
-I think Sri Lanka's metro website should prioritize **simplicity and mobile-first design** because most users will access it from their phones. The Singapore model is the best reference because it balances simplicity with useful features without overwhelming the user.
+Doing this research gave me a clear idea of what we actually need to build. The MTC Chennai site proved that we can easily digitize our current "Fare Stage" system because they have done the exact same thing. But for the UI and user experience, we should definitely follow the Metrobus UK and Tokyo Metro models. 
 
-The most important feature for Sri Lanka would be **multilingual support** since both Sinhala and Tamil-speaking communities need to use the system comfortably.
+In Sri Lanka, the two biggest headaches for a passenger are: 1. Not knowing when the transport will arrive, and 2. Fighting for change money. If our team can build a simple, fast-loading mobile website that shows a live map of the vehicle and a simple fare calculator, that alone will be a massive success for this government project. We don't need overly complex features right now; we just need reliability and transparency.
 
 ---
 
 ## 6. References
 
-- TransitLink Singapore – https://www.transitlink.com.sg – visited 2025-03-01
-- Transport for London – https://tfl.gov.uk – visited 2025-03-01
-- Tokyo Metro – https://www.tokyometro.jp/en – visited 2025-03-02
+- TransitLink Singapore – https://www.transitlink.com.sg – visited 2026-03-08
+- Metropolitan Transport Corporation (Chennai) – https://mtcbus.tn.gov.in/Home/fares – visited 2026-03-08
+- Metrobus UK – https://www.metrobus.co.uk/ – visited 2026-03-08
+- Tokyo Metro – https://www.tokyometro.jp/en – visited 2026-03-08
