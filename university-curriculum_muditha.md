@@ -1,0 +1,160 @@
+# University Curriculum
+
+**Name:** Muditha Bandara
+**Date:** 2000-02-10  
+**Branch:** `doc/muditha-research`
+
+---
+
+## 1. Personal Details
+
+| Field               | Details |
+|---------------------|---------|
+| University | SLIIT  |
+| Degree Program      | BSc (Hons) in Information Technology Specilized in Software Engineering |
+| Current Year        | Year 4 – Semester 1 |
+| Expected Graduation | 2026    |
+
+---
+
+## 2. Subjects Completed
+
+| Year | Semester | Subject                | Grade | Relevant to Software Engineering? |
+|------|----------|------------------------|-------|-----------------------------------|
+| Yr 1 | Sem 1    | Introduction to Programming (C)                      | A+ | ✅ Yes |
+| Yr 1 | Sem 1    | Introduction to Computer Systems                     | A  | ✅ Yes |
+| Yr 1 | Sem 1    | Mathematics for Computing                            | A+ | ✅ Yes |
+| Yr 1 | Sem 1    | Communication Skills                                 | B+ | ✅ Yes |
+| Semester GPA: 3.86
+|
+| Yr 1 | Sem 2    | Object Oriented Concepts (C++)                       | B+ | ✅ Yes |
+| Yr 1 | Sem 2    | Software Process Modeling                            | A  | ✅ Yes |
+| Yr 1 | Sem 2    | English for Academic Purposes                        | B+ | ✅ Yes |
+| Yr 1 | Sem 2    | Information Systems & Data Modeling (SQL)            | A  | ✅ Yes |
+| Yr 1 | Sem 2    | Internet & Web Technologies (HTML/CSS/JS/PHP)        | A- | ✅ Yes |
+| Semester GPA: 3.71
+|
+| Yr 2 | Sem 1    | Software Engineering                                 | A  | ✅ Yes |
+| Yr 2 | Sem 1    | Object Oriented Programming (Java)                   | A  | ✅ Yes |
+| Yr 2 | Sem 1    | Database Management Systems (SQL, T-SQL)             | A- | ✅ Yes |
+| Yr 2 | Sem 1    | Computer Networks                                    | B+ | ✅ Yes |
+| Yr 2 | Sem 1    | Operating Systems and System Administration (Ubuntu) | A  | ✅ Yes |
+| Semester GPA: 3.8
+|
+| Yr 2 | Sem 2    | Mobile Application Development (Kotlin)              | A- | ✅ Yes |
+| Yr 2 | Sem 2    | Data Structures & Algorithms (Python)                | B+ | ✅ Yes |
+| Yr 2 | Sem 2    | IT Project (MERN)                                    | A- | ✅ Yes |
+| Yr 2 | Sem 2    | Professional Skills                                  | A  | ✅ Yes |
+| Yr 2 | Sem 2    | Employability Skills Development - Seminar           | B- | ✅ Yes |
+| Yr 2 | Sem 2    | Probability & Statistics                             | A  | ✅ Yes |
+| Semester GPA: 3.694
+|
+| Yr 3 | Sem 1    | Employability Skills Development - Seminar           | A+ | ✅ Yes |
+| Yr 3 | Sem 1    | Software Engineering Process & Quality Management    | B  | ✅ Yes |
+| Yr 3 | Sem 1    | Distributed Systems (Docker)                         | B- | ✅ Yes |
+| Yr 3 | Sem 1    | Software Architecture (Cypress)                      | C+ | ✅ Yes |
+| Yr 3 | Sem 1    | Application Frameworks (Git, MERN)                   | B  | ✅ Yes |
+| Semester GPA: 2.75
+|
+| Yr 3 | Sem 2    | User Experience Engineering (React Native)           | B+ | ✅ Yes |
+| Yr 3 | Sem 2    | Database Systems (Orcale SQL, PL-SQL)                | B+ | ✅ Yes |
+| Yr 3 | Sem 2    | Case Studies in Software Engineering (MERN)          | B+ | ✅ Yes |
+| Yr 3 | Sem 2    | Software Project Management (Agile, Jira)            | B+ | ✅ Yes |
+| Semester GPA: 3.3
+| Yr 4 | Sem 1    | Machine Learning                                | Current | ✅ Yes |
+| Yr 4 | Sem 1    | Preparation for the Professional World          | Current | ✅ Yes |
+| Yr 4 | Sem 1    | Current Trends in Software Engineering (AWS)    | Current | ✅ Yes |
+| Yr 4 | Sem 1    | Research Project (16 Credits)                   | Current | ✅ Yes |
+| Semester GPA: -
+
+---
+
+## 3. Subjects Currently Doing
+
+| Subject | Brief Description | How It Connects to This Project |
+|---------|------------------|----------------------------------|
+| Advanced Web Development | React, REST APIs | Frontend development for metro site |
+| Cloud Computing Basics | AWS / GCP intro | Hosting and deployment knowledge |
+| Mobile Application Development | Flutter / React Native | Metro mobile app in future |
+| UI/UX Design | Figma, wireframes | Design the metro website layout |
+
+---
+
+## 4. Skills I Have Gained
+
+### Programming Languages
+- **Python** – Beginner to intermediate (used for algorithms, and machine learning basics)
+- **Java** – Comfortable (object-oriented programming and backend concepts)
+- **JavaScript** – Beginner to intermediate (web development and frontend logic)
+- **C / C++** – Comfortable (Strong foundation in programming fundamentals and OOP)
+- **HTML / CSS** – Comfortable
+- **Kotlin** – Beginner
+
+### Frameworks & Libraries
+- **React.js** – Building interactive frontend applications
+- **React Native** – Mobile application development using UI/UX practices
+- **Node.js & Express.js** – Backend REST API development
+- **MERN Stack** – Building full-stack applications
+- **Spring Boot** – Backend development
+
+### Databases
+- **MySQL / MS SQL Server** – Writing queries and designing relational databases
+- **MongoDB** – NoSQL database used in MERN projects
+- **Oracle SQL / PL-SQL / T-SQL** – Database programming, triggers, and procedures
+
+### Tools & Technologies
+- **Git & GitHub** – Version control and collaboration
+- **VS Code / IntelliJ / Android Studio** – Main development environment
+- **VS Code / IntelliJ / Android Studio** – Other development environments
+- **Postman** – API testing
+- **Docker** – Basic containerization knowledge
+- **Figma** – Beginner level UI/UX wireframes and design prototypes
+
+### Concepts Understood
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Design Patterns
+- REST API design
+- MVC architecture
+- Agile/Scrum methodology
+- Relational database design
+- Software architecture basics
+- Machine Learning Algorithms (basic - learning + research)
+
+---
+
+********* CONTINUE *********
+
+## 5. Honest Self Assessment
+
+> Be honest here. This helps the trainer assign the right role for you.
+
+| Area | My Confidence Level | Notes |
+|------|--------------------|----|
+| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 2 small projects |
+| Backend (Node/Python) | ⭐⭐ Some experience | Only done in class exercises |
+| Databases | ⭐⭐ Basic | Can write SELECT/JOIN queries |
+| Git / GitHub | ⭐ Beginner | This is my first real Git activity |
+| UI/UX Design | ⭐⭐ Some | Used Figma once in a class assignment |
+
+---
+
+## 6. What I Want to Learn in This Training
+
+> Write 3–5 things you personally want to get better at.
+
+1. Using Git properly in a team workflow
+2. Building a real backend API, not just theory
+3. Understanding how to structure a proper web project
+4. How to write cleaner, more readable code
+5. Working with others using branches and pull requests
+
+---
+
+## 7. Any Relevant Personal Projects
+
+| Project | What It Does | Technologies Used | Status |
+|---------|-------------|-------------------|--------|
+| Personal Portfolio | Showcases my work | HTML, CSS, JS | Completed |
+| Student Grade Calculator | Calculates GPA | Python | Completed |
+| Online Bookshop (class project) | CRUD app | PHP, MySQL | Completed |
