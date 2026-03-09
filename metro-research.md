@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** N.A.KANISHKA THARUKA 
+**Date:** 2006-03-08 
+**Branch:** `doc/kanishka-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | Taiwan | Taipei Metro / TransitLink | https://english.metro.taipei/ | 2026-03-08 |
+| 2 | Malaysia | Rapid KL | https://myrapid.com.my/ | 2026-03-08 |
+| 3 | Thailand | BTS Skytrain | https://www.bts.co.th/eng/ | 2026-03-08 |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -20,49 +20,43 @@
 
 ## 2. Key Features Observed
 
-### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+### 🔵 Taiwan – Taipei Metro (Asia)
+![Singapore TransitLink Homepage](./screenshots/Taipei%20Metro.png)
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
-- Fare calculator
-- Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- Very detailed station maps.
+- Shows which exit goes to which street.
+- Real-time info on parking and lockers.
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+**My observation:** The exit mapping is very smart. In crowded places like Pettah, choosing the wrong exit wastes time.
 
 ---
 
-### 🔴 London – Transport for London (TfL)
-![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-01*
+### 🔴 Malaysia – Rapid KL (Asia)
+![TfL Homepage](./screenshots/Rapid%20KL.png)
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Live status updates for each line
-- Accessibility information (step-free access)
-- Oyster card / contactless payment info
-- Journey planner with multiple transport modes
-- Disruption alerts banner at the top
+- Combines trains and buses in one system.
+- Details on "Park and Ride" fees for cars.
+- Connects directly to their mobile app for live updates.
 
-**My observation:** TfL handles disruptions very transparently. Sri Lanka could benefit from a clear "service status" section so passengers aren't confused during delays.
+**My observation:** Malaysia is hot and busy like Sri Lanka. Their system of connecting buses to trains is perfect for us.
 
 ---
 
-### 🟠 Tokyo Metro
-![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+### 🟠 Thailand – BTS Skytrain (Asia)
+![Tokyo Metro Homepage](./screenshots/BTS%20Skytrain.png)
+*Screenshot taken: 2026-03-08*
 
 **Features noticed:**
-- Extremely detailed route map (interactive)
-- Tourist-focused features (English, Chinese, Korean)
-- Station facilities info (toilets, elevators, exits)
-- Lost and found section
-- IC card (Suica/Pasmo) information
+- Uses a "Rabbit Card" for travel and shopping.
+- Simple fare calculator.
+- Very easy for tourists to understand.
 
-**My observation:** Tokyo provides station-level details which is great. For Sri Lanka, showing nearby landmarks for each station would help tourists.
+**My observation:** Since Sri Lanka is developing bus transport system , Bangkok is a great example. Their smart card works like a digital wallet. 
+- We should try to link our tickets with LankaPay or QR apps.
 
 ---
 
@@ -70,50 +64,52 @@
 
 | Aspect | What I Noticed | Good for Sri Lanka? |
 |--------|---------------|---------------------|
-| Color scheme | Each system has a consistent brand color | ✅ Yes – use Sri Lankan national colors |
-| Navigation | Simple top nav with 4-5 main items | ✅ Yes – keep it minimal |
-| Mobile responsiveness | All three sites work well on phone | ✅ Must have |
-| Language support | Multiple languages available | ✅ Sinhala, Tamil, English needed |
-| Maps | Interactive SVG/JS maps | ✅ Priority feature |
-| Accessibility | TfL has the best accessibility info | ✅ Include for inclusivity |
+| Station Maps | Taipei shows exactly where to walk out. | ✅ Yes – helps in busy city areas. |
+| Mobile Tickets | Shanghai uses QR codes for everything. | ✅ Yes – saves money on paper. |
+| Extra Rides | Berlin includes taxis in the trip plan. | ✅ Yes – perfect for Tuk-Tuk links. |
+| Offline Help | Vancouver uses SMS for live times. | ✅ Yes – good for low-data users. |
 
 ---
 
 ## 4. Suggested Features for Sri Lanka Metro Website
 
 ### Must Have
-- [ ] Interactive route map
-- [ ] Station list with nearby landmarks
-- [ ] Fare information
-- [ ] Operating hours
-- [ ] Sinhala / Tamil / English language toggle
+- [ ] Mobile-friendly design that loads fast.
+- [ ] using bus ticket price smart card.
+- [ ] QR code portal for digital tickets
+- [ ] Map showing metro stations and bus stops together.
+- [ ] Clear street-level exit maps for stations.
 
 ### Good to Have
-- [ ] Real-time train status
-- [ ] Journey planner
-- [ ] Mobile app link
-- [ ] News & announcements section
-- [ ] Contact / lost & found
+- [ ] SMS service to check "Next Bus" times.
+- [ ] Alerts for breakdown bus and train.
+- [ ] having fixed time to say at the bus stop. 
 
 ### Future Consideration
-- [ ] Tourist guide integration
-- [ ] QR code ticketing info
-- [ ] Accessibility guide per station
+- [ ] Linking with Tuk-Tuk apps like PickMe or Uber.
+- [ ] A digital wallet to buy food at the station with the metro app.
+- [ ] able to pay for public and private transport with same smart card.
 
 ---
 
 ## 5. My Personal Opinion
 
-> *Write this in your own words. What did you personally find most useful? What do you think Sri Lanka needs most?*
+### Metro Bus System – Passenger Features
 
-I think Sri Lanka's metro website should prioritize **simplicity and mobile-first design** because most users will access it from their phones. The Singapore model is the best reference because it balances simplicity with useful features without overwhelming the user.
+The Metro Bus system is designed to make public transportation easier and more organized for passengers in Colombo. The main idea is to integrate buses, routes, and passenger information in one simple platform.
 
-The most important feature for Sri Lanka would be **multilingual support** since both Sinhala and Tamil-speaking communities need to use the system comfortably.
+Passengers can use a **road map in the system to find routes and destinations** easily. When getting on the bus, passengers can **tap their card or QR ticket**, and the system will record their trip. When they get off the bus at their destination, the **payment will be completed automatically**.
+
+Each passenger will also have a **profile in the system**, where their travel details and payment information are updated automatically.
+
+The buses operate on a **fixed schedule**, so passengers know exactly when the bus will arrive and leave. Buses stop only at **official bus stops**, and they cannot wait for a long time at stops. Also, a bus **cannot overtake another bus on the same route** to maintain safety and proper scheduling.
+
+This system helps make public transportation **simple, clear, and efficient for all passengers**.
 
 ---
 
 ## 6. References
 
-- TransitLink Singapore – https://www.transitlink.com.sg – visited 2025-03-01
-- Transport for London – https://tfl.gov.uk – visited 2025-03-01
-- Tokyo Metro – https://www.tokyometro.jp/en – visited 2025-03-02
+- Taipei Metro (Taiwan) – https://english.metro.taipei/ – visited 2026-03-08
+- Rapid KL (Malaysia) – https://myrapid.com.my/ – visited 2026-03-08
+- BTS Skytrain (Thailand) – https://www.bts.co.th/eng/ – visited 2026-03-08
