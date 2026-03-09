@@ -21,7 +21,7 @@
 ## 2. Key Features Observed
 
 ### 🔵 Taiwan – Taipei Metro (Asia)
-![Singapore TransitLink Homepage](./screenshots/Taipei%20Metro.png)
+![Singapore TransitLink Homepage](./screenshots_kanishka/Taipei%20Metro.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
@@ -34,7 +34,7 @@
 ---
 
 ### 🔴 Malaysia – Rapid KL (Asia)
-![TfL Homepage](./screenshots/Rapid%20KL.png)
+![TfL Homepage](./screenshots_kanishka/Rapid%20KL.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
@@ -47,7 +47,7 @@
 ---
 
 ### 🟠 Thailand – BTS Skytrain (Asia)
-![Tokyo Metro Homepage](./screenshots/BTS%20Skytrain.png)
+![Tokyo Metro Homepage](./screenshots_kanishka/BTS%20Skytrain.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
