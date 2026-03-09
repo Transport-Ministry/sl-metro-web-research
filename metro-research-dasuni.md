@@ -21,7 +21,7 @@
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
-![Singapore TransitLink Trvelguide](./screenshots/singapore-transitlink.png)
+![Singapore TransitLink Trvelguide](./screenshots-dasuni/singapore-transitlink.png)
 *Screenshot taken: 2025-03-09*
 
 **Features noticed:**
@@ -39,7 +39,7 @@
 ---
 
 ### 🔴Indonesia – jakartamrt
-![TfL Homepage](./screenshots/jakartamrt.png)
+![TfL Homepage](./screenshots-dasuni/jakartamrt.png)
 *Screenshot taken: 2025-03-09*
 
 **Features noticed:**
@@ -54,7 +54,7 @@
 ---
 
 ### 🟠 Delhi Metro
-![Tokyo Metro Homepage](./screenshots/delhi-metro.png)
+![Tokyo Metro Homepage](./screenshots-dasuni/delhi-metro.png)
 *Screenshot taken: 2025-03-02*
 
 **Features noticed:**
