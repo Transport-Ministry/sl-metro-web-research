@@ -101,35 +101,48 @@
 
 | Aspect | What I Noticed | Good for Sri Lanka? |
 |--------|---------------|---------------------|
-| Color scheme | Each system has a consistent brand color | ✅ Yes – use Sri Lankan national colors |
-| Navigation | Simple top nav with 4-5 main items | ✅ Yes – keep it minimal |
-| Mobile responsiveness | All three sites work well on phone | ✅ Must have |
-| Language support | Multiple languages available | ✅ Sinhala, Tamil, English needed |
-| Maps | Interactive SVG/JS maps | ✅ Priority feature |
-| Accessibility | TfL has the best accessibility info | ✅ Include for inclusivity |
+| Color scheme | Each system uses strong brand colors (TfL red, Tokyo Metro blue) | ✅ Yes – Use Sri Lanka rail blue/red or national colors |
+| Navigation | Most sites have 4–6 main menu items | ✅ Yes – Ideal for Sri Lankan users |
+| Mobile responsiveness | Fully responsive design | ✅ Essential |
+| Language support | Multiple languages for tourists and locals | ✅ Sinhala / Tamil / English |
+| Maps | ISVG or WebGL interactive maps | ✅ High priority |
+| Accessibility | TfL shows elevator, wheelchair access | ✅ Important for inclusivity |
+| Search Function | Most sites include station search | ✅ Must implement |
+| Visual Hierarchy | Large route planners on homepage | ✅ IShould be homepage focus |
 
 ---
 
 ## 4. Suggested Features for Sri Lanka Metro Website
 
 ### Must Have
-- [ ] Interactive route map
-- [ ] Station list with nearby landmarks
-- [ ] Fare information
-- [ ] Operating hours
-- [ ] Sinhala / Tamil / English language toggle
+- [✅] Interactive Route Map
+- [✅] Station Information Pages
+- [✅] Fare Information
+- [✅] Operating hours
+- [✅] Language Support
+- [✅] Station Search
+- [✅] Route Information
+- [✅] Mobile Responsive Design
 
 ### Good to Have
-- [ ] Real-time train status
-- [ ] Journey planner
-- [ ] Mobile app link
-- [ ] News & announcements section
-- [ ] Contact / lost & found
+- [✅] Real-time train status
+- [✅] Journey planner
+- [✅] Mobile App Integration
+- [✅] News and Announcements Section
+- [✅] Contact and Support Page
+- [✅] Lost and Found Reporting
+- [✅] Service Alerts
+- [✅] Downloadable Maps
 
 ### Future Consideration
-- [ ] Tourist guide integration
-- [ ] QR code ticketing info
-- [ ] Accessibility guide per station
+- [✅] Tourist Transport Guide
+- [✅] QR Code Ticketing System
+- [✅] Accessibility Information
+- [✅] Smart Card Integration
+- [✅] Real-Time Train Tracking Map
+- [✅] Crowd Density Information
+- [✅] Multimodal Transport Integration
+- [✅] AI-Based Travel Recommendations
 
 ---
 
@@ -137,14 +150,31 @@
 
 > *Write this in your own words. What did you personally find most useful? What do you think Sri Lanka needs most?*
 
-I think Sri Lanka's metro website should prioritize **simplicity and mobile-first design** because most users will access it from their phones. The Singapore model is the best reference because it balances simplicity with useful features without overwhelming the user.
+After reviewing several international public transport websites such as Tokyo Metro, Transport for London, and Singapore TransitLink, I identified several features that are particularly useful for passengers. One of the most useful features I found was the journey planner. This tool allows users to enter their starting point and destination, and the system automatically suggests the best route, travel time, and possible transfers. I believe this feature is extremely helpful because it saves time and helps passengers easily understand how to reach their destination using public transport.
 
-The most important feature for Sri Lanka would be **multilingual support** since both Sinhala and Tamil-speaking communities need to use the system comfortably.
+Another feature that stood out to me was the interactive route map. Instead of only showing a static map, these websites provide interactive maps where users can click on stations to view additional information such as facilities, nearby landmarks, and connecting transport options. This makes navigation much easier, especially for people who are unfamiliar with the transport system or visiting the city for the first time.
+
+I also found the real-time service updates to be very valuable. These updates inform passengers about delays, disruptions, or maintenance work. Having access to this information allows passengers to adjust their travel plans and avoid unnecessary waiting time.
+
+In my opinion, the most important features that Sri Lanka needs are clear route information, an interactive map, and a journey planning system. Currently, many passengers rely on asking others or searching multiple sources to find transport information. A centralized website with accurate and easy-to-use information would greatly improve the passenger experience.
+
+Sri Lanka would also benefit from providing multilingual support, including Sinhala, Tamil, and English, so that both local passengers and international tourists can easily access transport information. Additionally, ensuring that the website is mobile-friendly is important because many people use smartphones while traveling.
+
+Overall, implementing these features would make public transportation information in Sri Lanka more organized, accessible, and user-friendly. It would also help encourage more people to use public transport by making travel planning simpler and more reliable.
 
 ---
 
 ## 6. References
 
-- TransitLink Singapore – https://www.transitlink.com.sg – visited 2025-03-01
-- Transport for London – https://tfl.gov.uk – visited 2025-03-01
-- Tokyo Metro – https://www.tokyometro.jp/en – visited 2025-03-02
+- TransitLink Singapore – https://www.transitlink.com.sg
+ – visited 2025-03-09
+- Transport for London – https://tfl.gov.uk
+ – visited 2025-03-09
+- Tokyo Metro – https://www.tokyometro.jp/en
+ – visited 2025-03-09
+- Hong Kong MTR – https://www.mtr.com.hk
+ – visited 2025-03-09
+- New York MTA – https://new.mta.info
+ – visited 2025-03-09
+- SimplyGo (Singapore Transit Services) – https://simplygo.com.sg
+ – visited 2025-03-09
