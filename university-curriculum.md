@@ -21,13 +21,29 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (Python) | A | ✅ Yes |
-| Sem 1 | Database Management Systems | B+ | ✅ Yes |
-| Sem 2 | Object Oriented Programming (Java) | A- | ✅ Yes |
-| Sem 2 | Computer Networks | B | ✅ Yes |
-| Sem 2 | Web Technologies (HTML/CSS/JS) | A | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | B+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | A | ✅ Yes |
+| Y1 S1 | Introduction to Programming (c) | A- | ✅ Yes |
+| Y1 S1 | Introduction to Computer Systems | B | ✅ Yes |
+| Y1 S1 | Mathematics for Computing | A | ✅ Yes |
+| Y1 S2 | Object Oriented Concepts | B- | ✅ Yes |
+| Y1 S2 | Software Process Modeling | B- | ✅ Yes |
+| Y1 S2 | Information Systems & Data Modeling | B | ✅ Yes |
+| Y1 S2 | Internet & Web Technologies(Group project using HTML, CSS and JS) | A | ✅ Yes |
+| Y2 S1 | Software Engineering  | B | ✅ Yes |
+| Y2 S1 | Object Oriented Programming(JAVA)  | B | ✅ Yes |
+| Y2 S1 | Database Management Systems  | B | ✅ Yes |
+| Y2 S1 | Computer Networks  | B- | ✅ Yes |
+| Y2 S1 | Operating Systems & System Administration  | B- | ✅ Yes |
+| Y2 S2 | Mobile Application Development(kotlin)   | B- | ✅ Yes |
+| Y2 S2 | Data Structures & Algorithms  | A- | ✅ Yes |
+| Y2 S2 | IT Project(MERN stack)  | B- | ✅ Yes |
+| Y2 S2 | Probability & Statistics  | B | ✅ Yes |
+| Y3 S1 | Human Computer Interaction(UI/UX)  | B- | ✅ Yes |
+| Y3 S1 | Information Assurance & Security  | B | ✅ Yes |
+| Y3 S1 | Data Science & Analytics  | B+ | ✅ Yes |
+| Y3 S2 | Database Systems  | pending... | ✅ Yes |
+| Y3 S2 | Network Design and Management  | pending... | ✅ Yes |
+| Y3 S2 | Programming Applications and Frameworks	  | pending... | ✅ Yes |
+| Y3 S2 | IT Project Management(python)  | pending... | ✅ Yes |
 
 ---
 
@@ -36,7 +52,7 @@
 | Subject | Brief Description | How It Connects to This Project |
 |---------|------------------|----------------------------------|
 | Advanced Web Development | React, REST APIs | Used for building full stack applications |
-| DevOps Fundamentals | CI/CD, Docker, Jenkins | Helps with automated deployment |
+| DevOps Fundamentals | CI/CD, Docker, Jenkins, github action | Helps with automated deployment |
 | Mobile Application Development | Android Development with Kotlin | Used for mobile app projects |
 | Cloud Computing | Basics of cloud services and hosting | Used for deploying applications |
 
