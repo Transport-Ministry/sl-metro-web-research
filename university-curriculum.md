@@ -7,7 +7,7 @@
 ---
 
 ## 1. Personal Details
-
+    
 | Field | Details |
 |-------|---------|
 | University | University of Moratuwa / SLIIT / NSBM / (your university) |
