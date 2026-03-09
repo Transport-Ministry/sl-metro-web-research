@@ -1,6 +1,6 @@
 # User stories 
 
-**Researcher:** Sankalya Tharindi  
+**Researcher:** Nilupuli Geethma  
 **Date:** 2026-03-09
 **Branch:** `doc/nilupuli-research`
 
