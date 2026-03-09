@@ -2,7 +2,7 @@
 
 **Name:** Oshana Fernando
 **Date:** 2002-05-13  
-**Branch:** `doc/Oshana-research`
+**Branch:** `doc/oshana-research`
 
 ---
 

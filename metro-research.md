@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** Oshana Fernando  
+**Date:** 2002-05-13  
+**Branch:** `doc/oshana-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | India   | Delhi Metro Rail Corporation (DMRC) | https://delhimetrorail.com/ | 2025-03-09 |
+| 2 | London  | Transport for London | https://tfl.gov.uk | 2025-03-01 |
+| 3 | Tokyo   | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -20,50 +20,67 @@
 
 ## 2. Key Features Observed
 
-### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+### 🔵 India – Delhi Metro Rail Corporation
+![Delhi Metro Rail Corporation](./screenshots/singapore-transitlink.png)
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
+- plan metro journeys
+- Multilingual support (English, Hindi)
+- Allow users to submit complaints and feedback
 - Fare calculator
-- Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- Has an AI Assistant to help users
+- System includes an interactive metro map
+- provides a notices section to clearly communicate important updates
+- Provide security features when travelling
+- Have a good FAQ database
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+**Weaknesses / Limitations:**
+- user interface is not well organized
+- Design of the interface looks slightly outdated
+- Homepage contains too much text information
+
+**My observation:** the Delhi Metro website is useful for passengers because it provides important travel information such as routes, fares, and journey planning. However, the website design and technical aspects need improvements to make it more modern and user-friendly.
 
 ---
 
 ### 🔴 London – Transport for London (TfL)
 ![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-01*
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Live status updates for each line
-- Accessibility information (step-free access)
-- Oyster card / contactless payment info
-- Journey planner with multiple transport modes
-- Disruption alerts banner at the top
+- Provide safety features when travelling 
+- User-friendly and easy to access
+- Available on Android and iOS (Mobile Optimized)
+- On-site journey planner facility
+- Help and contact section for user support
+- Separate section for fares and updates
 
-**My observation:** TfL handles disruptions very transparently. Sri Lanka could benefit from a clear "service status" section so passengers aren't confused during delays.
+**Weaknesses / Limitations:**
+- Occasional Google ads that may distract or harm users
+
+
+**My observation:** Although some ads are shown, the overall user experience is better compared to other sites and is generally good.
 
 ---
 
-### 🟠 Tokyo Metro
-![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+### 🟠 Germany – Berlin Public Transport
+![Berlin Public Transport - Home](./screenshots/tokyo-metro.png)
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Extremely detailed route map (interactive)
-- Tourist-focused features (English, Chinese, Korean)
-- Station facilities info (toilets, elevators, exits)
-- Lost and found section
-- IC card (Suica/Pasmo) information
+- Eye-catching user interface on visiting the site
+- Clear notices and updates section for important service information
+- Separate mobile apps for specialized functions
+- Dedicated section for tourists
+- Separate section for tickets and tariffs
+- Well-optimized for mobile devices
+- Multilingual support (English, German)
 
-**My observation:** Tokyo provides station-level details which is great. For Sri Lanka, showing nearby landmarks for each station would help tourists.
+**Weaknesses / Limitations:**
+- Integrated map can be laggy
 
+**My observation:** This website is well-designed and user-friendly, providing clear information and useful features, making it highly effective for passengers.
 ---
 
 ## 3. UI/UX Observations
