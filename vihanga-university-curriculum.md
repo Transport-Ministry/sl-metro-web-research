@@ -1,8 +1,8 @@
 # University Curriculum
 
-**Name:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Name:** A.M. Vihanga  
+**Date:** 2026-03-08  
+**Branch:** `doc/vihanga-research`
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Field | Details |
 |-------|---------|
-| University | University of Moratuwa / SLIIT / NSBM / (your university) |
-| Degree Program | BSc in Information Technology / Software Engineering |
-| Current Year | Year 2 – Semester 1 |
-| Expected Graduation | 2026 |
+| University | University of Moratuwa 
+| Degree Program | BSc Hons in Information Technology and Management
+| Current Year | Year 3 – Semester 1 |
+| Expected Graduation | 2027 |
 
 ---
 
@@ -21,13 +21,13 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (Python) | A | ✅ Yes |
-| Sem 1 | Database Management Systems | B+ | ✅ Yes |
-| Sem 2 | Object Oriented Programming (Java) | A- | ✅ Yes |
+| Sem 1 | Programming Fundamentals (Python) | B- | ✅ Yes |
+| Sem 1 | Database Management Systems | B- | ✅ Yes |
+| Sem 2 | Object Oriented Programming (Java) | B+ | ✅ Yes |
 | Sem 2 | Computer Networks | B | ✅ Yes |
-| Sem 2 | Web Technologies (HTML/CSS/JS) | A | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | B+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | A | ✅ Yes |
+| Sem 2 | Web Technologies (HTML/CSS/JS) | B | ✅ Yes |
+| Sem 3 | Data Structures & Algorithms | B | ✅ Yes |
+| Sem 3 | Software Engineering Principles | B | ✅ Yes |
 
 ---
 
@@ -47,13 +47,13 @@
 ### Programming Languages
 - Python – intermediate
 - Java – intermediate
-- JavaScript – beginner-intermediate
-- HTML/CSS – comfortable
+- JavaScript -intermediate
+- HTML/CSS – intermediate
 
 ### Tools & Technologies
 - Git & GitHub – learning
 - MySQL / PostgreSQL – basic queries
-- Figma – beginner
+- Figma – intermediate
 - VS Code – daily use
 
 ### Concepts Understood
@@ -70,11 +70,11 @@
 
 | Area | My Confidence Level | Notes |
 |------|--------------------|----|
-| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 2 small projects |
+| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 5 small projects |
 | Backend (Node/Python) | ⭐⭐ Some experience | Only done in class exercises |
 | Databases | ⭐⭐ Basic | Can write SELECT/JOIN queries |
-| Git / GitHub | ⭐ Beginner | This is my first real Git activity |
-| UI/UX Design | ⭐⭐ Some | Used Figma once in a class assignment |
+| Git / GitHub | ⭐ Intermideate | Have done projects before
+| UI/UX Design | ⭐⭐ Indermediate | Have used for university projects |
 
 ---
 
@@ -94,6 +94,6 @@
 
 | Project | What It Does | Technologies Used | Status |
 |---------|-------------|-------------------|--------|
-| Personal Portfolio | Showcases my work | HTML, CSS, JS | Completed |
-| Student Grade Calculator | Calculates GPA | Python | Completed |
-| Online Bookshop (class project) | CRUD app | PHP, MySQL | Completed |
+| Travel Management System | Planing trips inside Sri Lanka by booking hotels, trnasport and tourguides through the website | React,Springboot,Mysql  | Completed |
+| ParkSnap | Reserving parking slots | React,Springboot,Mysql | Completed |
+| Wisdom Wave | Learning Management System | React,Nodejs,MongoDB | Ongoing |
