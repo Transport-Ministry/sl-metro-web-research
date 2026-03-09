@@ -10,9 +10,11 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2026-03-09 |
+| 2 | London | Transport for London | https://tfl.gov.uk | 2026-03-09 |
+| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2026-03-09  |
+| 4 | USA | New York MTA  | https://new.mta.info | 2026-03-09  |
+| 5 | Hong Kong | Hong Kong MTR | https://www.mtr.com.hk | 2026-03-09  |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -22,7 +24,7 @@
 
 ### 🟠 Singapore – TransitLink
 ![Singapore TransitLink Homepage](./screenshots_dinusha/Transitlink/Homepage.png)
-*Screenshot taken: 2025-03-09*
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - route planner
@@ -37,7 +39,7 @@
 
 ### 🟠 London – Transport for London (TfL)
 ![TfL Homepage](./screenshots_dinusha/London_tfl/Homepage.png)
-*Screenshot taken: 2025-03-09*
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - have Advanced journey planner
@@ -53,7 +55,7 @@
 
 ### 🟠 Tokyo Metro
 ![Tokyo Metro Homepage](./screenshots_dinusha/Tokyo_Metro/Homepage.png)
-*Screenshot taken: 2025-03-09*
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - have Route planner to search for fare and transfer
@@ -69,7 +71,7 @@
 
 ### 🟠 Hong Kong MTR
 ![Hong Kong MTR Homepage](./screenshots_dinusha/Hong_Kong_MTR/Homepage.png)
-*Screenshot taken: 2025-03-09*
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - trip planner
@@ -84,7 +86,7 @@
 
 ### 🟠 New York MTA
 ![New York MTA Homepage](./screenshots_dinusha/New_York_MTA/Homepage.png)
-*Screenshot taken: 2025-03-09*
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - subway map
@@ -167,14 +169,12 @@ Overall, implementing these features would make public transportation informatio
 ## 6. References
 
 - TransitLink Singapore – https://www.transitlink.com.sg
- – visited 2025-03-09
+ – visited 2026-03-09 
 - Transport for London – https://tfl.gov.uk
- – visited 2025-03-09
+ – visited 2026-03-09 
 - Tokyo Metro – https://www.tokyometro.jp/en
- – visited 2025-03-09
+ – visited 2026-03-09 
 - Hong Kong MTR – https://www.mtr.com.hk
- – visited 2025-03-09
+ – visited 2026-03-09 
 - New York MTA – https://new.mta.info
- – visited 2025-03-09
-- SimplyGo (Singapore Transit Services) – https://simplygo.com.sg
- – visited 2025-03-09
+ – visited 2026-03-09 
