@@ -13,6 +13,8 @@
 | 1 | Singapore | SMRT / TransitLink |https://www.transitlink.com.sg | 2026-03-09 |
 | 2 | London | Transport for London | https://tfl.gov.uk | 2026-03-09 |
 | 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en| 2026-03-09 |
+| 4 | Berlin | Berlin Metro | https://www.berlin.de/en/public-transportation/1742343-2913840-underground-subway.en.html | 2026-03-09 
+|
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -72,6 +74,23 @@ My observation:
 Tokyo Metro provides a lot of station-level information. This is especially useful for tourists who need directions, station exits, and nearby facilities.
 
 ---
+### Berlin Metro
+![Berlin Metro Homepage](./screenshots/berlin-metro.png)
+*Screenshot taken: 2026-03-09*
+
+Features noticed:
+
+- Detailed information about subway lines, routes, and stations
+- Ticket and fare information for public transport
+- Timetable details for train schedules
+- 24-hour service during weekends
+- Integrated ticket system for buses, trams, and trains
+- Route maps for the entire metro network
+- Accessibility information for passengers with disabilities
+
+My observation: 
+
+The Berlin U-Bahn website provides clear and detailed information about subway lines, schedules, and ticketing. I noticed that the system is well integrated with other transport services like buses and trams, which makes travelling easier for passengers. The availability of 24-hour service during weekends is also very useful for people who travel at night. For Sri Lanka, providing clear route maps and simple ticket information like this would help passengers plan their journeys more easily.
 
 ## 3. UI/UX Observations
 
