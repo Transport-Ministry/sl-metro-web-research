@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** Dinusha Amarasinghe 
+**Date:** 2026-03-09  
+**Branch:** `doc/dinusha-research`
 
 ---
 
@@ -20,49 +20,80 @@
 
 ## 2. Key Features Observed
 
-### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+### 🟠 Singapore – TransitLink
+![Singapore TransitLink Homepage](./screenshots_dinusha/Transitlink/Homepage.png)
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
-- Fare calculator
-- Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- route planner
+- MRT + bus integration
+- fare calculator
+- smart card management
+- travel alerts
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+**My observation:** The smart ticketing system is very useful to day to day users and visitors because it provides strong payment intergration and clear route information.
 
 ---
 
-### 🔴 London – Transport for London (TfL)
-![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-01*
+### 🟠 London – Transport for London (TfL)
+![TfL Homepage](./screenshots_dinusha/London_tfl/Homepage.png)
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Live status updates for each line
-- Accessibility information (step-free access)
-- Oyster card / contactless payment info
-- Journey planner with multiple transport modes
-- Disruption alerts banner at the top
+- have Advanced journey planner
+- shows live service status
+- have Oyster card payments
+- shows route maps
+- have accessibility information
+- shows disruption alerts
 
-**My observation:** TfL handles disruptions very transparently. Sri Lanka could benefit from a clear "service status" section so passengers aren't confused during delays.
+**My observation:** London’s transport platform allows millions of journey planning queries every day and provides fare and live departure information.
 
 ---
 
 ### 🟠 Tokyo Metro
-![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+![Tokyo Metro Homepage](./screenshots_dinusha/Tokyo_Metro/Homepage.png)
+*Screenshot taken: 2025-03-09*
 
 **Features noticed:**
-- Extremely detailed route map (interactive)
-- Tourist-focused features (English, Chinese, Korean)
-- Station facilities info (toilets, elevators, exits)
-- Lost and found section
-- IC card (Suica/Pasmo) information
+- have Route planner to search for fare and transfer
+- have Interactive subway map
+- shows station information
+- have tourist travel guides
+- have airport transport information
+- interface supports multi languages
 
-**My observation:** Tokyo provides station-level details which is great. For Sri Lanka, showing nearby landmarks for each station would help tourists.
+**My observation:** The Tokyo Metro website provides route search, subway maps, ticket information, and travel tips for visitors. Visitors can view the information in many languages.
+
+---
+
+### 🟠 Hong Kong MTR
+![Hong Kong MTR Homepage](./screenshots_dinusha/Hong_Kong_MTR/Homepage.png)
+*Screenshot taken: 2025-03-09*
+
+**Features noticed:**
+- trip planner
+- real-time train schedule
+- station facilities
+- Octopus smart card
+- travel guides
+
+**My observation:** One of the most efficient metro systems which has detailed station information.
+
+---
+
+### 🟠 New York MTA
+![New York MTA Homepage](./screenshots_dinusha/New_York_MTA/Homepage.png)
+*Screenshot taken: 2025-03-09*
+
+**Features noticed:**
+- subway map
+- train arrival times
+- service alerts
+- OMNY contactless payment
+- accessibility tools
+
+**My observation:** The website have travel planner along with alert system and interactive map
 
 ---
 
