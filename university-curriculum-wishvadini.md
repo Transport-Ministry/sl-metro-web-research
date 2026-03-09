@@ -1,7 +1,7 @@
 # University Curriculum
 
 **Name:** Mayadunnage Wishvadini Sathsarani Mayadunna  
-**Date:** 2002-08-05  
+**Date:** 2026-03-09  
 **Branch:** `doc/wishvadini-research`
 
 ---
@@ -21,13 +21,48 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (C) | C | ✅ Yes |
-| Sem 4 | Database Management Systems | C+| ✅ Yes |
-| Sem 3 | Object Oriented Programming (Java) | B- | ✅ Yes |
-| Sem 5 | Computer Networks | Result not released yet | ✅ Yes |
-| Sem 1 | Web Technologies (HTML/CSS/JS) | C | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | C+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | B | ✅ Yes |
+ Sem 1 | Essentials of Mathematics | C+ | ✅ Yes |
+| Sem 1 | Structured Programming I | C	| ✅ Yes |
+| Sem 1 | Digital Systems and Digital Computers| B-	| ✅ Yes |
+| Sem 1 | Multimedia Technologies and Web Design | C | ✅ Yes |
+| Sem 1 | English | C+ | Communication Skills |
+| Sem 1 | Principles of Management | B- | Management / Project Management |
+
+| Sem 2 | Elements of Probability and Statistics | C | ✅ Yes |
+| Sem 2 | Structured Programming II | C | ✅ Yes |
+| Sem 2 | Fundamentals of Databases | C | ✅ Yes |
+| Sem 2 | Business Foundation | C | Business Knowledge |
+| Sem 2 | Microcontroller Based ICT Project | B | ✅ Yes |
+| Sem 2 | Industry Reconnaissance and Engagement | A- | Professional / Industry Skills |
+
+| Sem 3 | Foundation of Mathematical Methods | C | ✅ Yes |
+| Sem 3 | Fundamentals of Object Oriented Programming | B- | ✅ Yes |
+| Sem 3 | Web Programming | B- | ✅ Yes |
+| Sem 3 | Software Engineering | B | ✅ Yes |
+| Sem 3 | Object-Oriented Analysis and Design | A- | ✅ Yes |
+| Sem 3 | Principles of Marketing & Consumer Solutions | B | Business / Product Understanding |
+| Sem 3 | Fundamentals of Accounting and Finance | B+ | Business Knowledge |
+| Sem 3 | Counselling | B | No |
+
+| Sem 4 | Statistical Inference | C+| ✅ Yes |
+| Sem 4 | Data Structures and Algorithms I | C+ | ✅ Yes |
+| Sem 4 | Essentials of Computer Organization & Architecture | A| ✅ Yes |
+| Sem 4 | Database Systems | C+ | ✅ Yes |
+| Sem 4 | Graphic Design and Development| B- | ✅ UI/UX |
+| Sem 4 | Economic Applications in Business| C+ | Business Knowledge |
+| Sem 4 | Essentials of Business Law and Taxation| A | Legal / Business |
+| Sem 4 | Software Development Project| B | ✅ Yes |
+| Sem 4 | Fundamentals of Fashion Industry | B- | No |
+
+| Sem 5 | Automata Theory| Pending | ✅ Yes |
+| Sem 5 | Artificial Intelligence| Pending | ✅ Yes |
+| Sem 5 | Operating Systems| Pending | ✅ Yes |
+| Sem 5 | Data Communication & Computer Networks| Pending | ✅ Yes |
+| Sem 5 | Human Computer Interaction| Pending | ✅ UI/UX |
+| Sem 5 | Communication Skills and Professional Conduct| Pending | Communication Skills |
+| Sem 5 | Organizational Behaviour| Pending | Team / Management |
+| Sem 5 | Management Information Systems| Pending | IT Management |
+| Sem 5 | IT Project Management| Pending | Project Management |
 
 ---
 
