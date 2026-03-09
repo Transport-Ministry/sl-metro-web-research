@@ -1,7 +1,7 @@
 # Metro System Research & Brainstorm
 
 **Researcher:** Oshana Fernando  
-**Date:** 2002-05-13  
+**Date:** 2026-03-09  
 **Branch:** `doc/oshana-research`
 
 ---
@@ -10,9 +10,9 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | India   | Delhi Metro Rail Corporation (DMRC) | https://delhimetrorail.com/ | 2025-03-09 |
-| 2 | London  | Transport for London | https://tfl.gov.uk | 2025-03-09 |
-| 3 | Germany   | Berlin Public Transport | https://bvg.de/en | 2025-03-09 |
+| 1 | India   | Delhi Metro Rail Corporation (DMRC) | https://delhimetrorail.com/ | 2026-03-09 |
+| 2 | London  | Transport for London | https://tfl.gov.uk | 2026-03-09 |
+| 3 | Germany | Berlin Public Transport | https://bvg.de/en | 2026-03-09 |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -21,8 +21,8 @@
 ## 2. Key Features Observed
 
 ### 🔵 India – Delhi Metro Rail Corporation
-![Delhi Metro Rail Corporation](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-09*
+![Delhi Metro Rail Corporation](./screenshots/Delhi_metro.png)
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - plan metro journeys
@@ -45,8 +45,8 @@
 ---
 
 ### 🔴 London – Transport for London (TfL)
-![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-09*
+![TfL Homepage](./screenshots/Transport_london.png)
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - Provide safety features when travelling 
@@ -65,8 +65,8 @@
 ---
 
 ### 🟠 Germany – Berlin Public Transport
-![Berlin Public Transport - Home](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-09*
+![Berlin Public Transport - Home](./screenshots/Berlin_Public.png)
+*Screenshot taken: 2026-03-09*
 
 **Features noticed:**
 - Eye-catching user interface on visiting the site
@@ -100,38 +100,41 @@
 ## 4. Suggested Features for Sri Lanka Metro Website
 
 ### Must Have
+- [ ] Search bar for stations and routes
+- [ ] Service alerts banner
 - [ ] Interactive route map
-- [ ] Station list with nearby landmarks
 - [ ] Fare information
-- [ ] Operating hours
 - [ ] Sinhala / Tamil / English language toggle
 
 ### Good to Have
-- [ ] Real-time train status
-- [ ] Journey planner
-- [ ] Mobile app link
+- [ ] Real-time Bus status Tracking
+- [ ] Journey planner Facility
 - [ ] News & announcements section
 - [ ] Contact / lost & found
+- [ ] Parking information at stations
+- [ ] Nearby transport connections
+- [ ] User feedback / complaint form
 
 ### Future Consideration
+- [ ] Push notifications for delays
+- [ ] Tourist travel pass information
 - [ ] Tourist guide integration
 - [ ] QR code ticketing info
-- [ ] Accessibility guide per station
 
 ---
 
 ## 5. My Personal Opinion
 
-> *Write this in your own words. What did you personally find most useful? What do you think Sri Lanka needs most?*
+The most important factor for a metro website is ease of use. The system should be simple and require minimal steps so that any user can quickly find information such as routes, fares, and station details.
 
-I think Sri Lanka's metro website should prioritize **simplicity and mobile-first design** because most users will access it from their phones. The Singapore model is the best reference because it balances simplicity with useful features without overwhelming the user.
+I also think it is better to avoid adding too many complex features and instead keep the system minimal and focused on the most important services. Using a consistent design style across the whole website is important so users do not get confused when navigating different sections.
 
-The most important feature for Sri Lanka would be **multilingual support** since both Sinhala and Tamil-speaking communities need to use the system comfortably.
+Finally, the website must be mobile friendly, since many people access services from their phones. Developing a mobile app alongside the website would also make it easier for passengers to use the metro system.
 
 ---
 
 ## 6. References
 
-- TransitLink Singapore – https://www.transitlink.com.sg – visited 2025-03-01
-- Transport for London – https://tfl.gov.uk – visited 2025-03-01
-- Tokyo Metro – https://www.tokyometro.jp/en – visited 2025-03-02
+- Delhi Metro Rail Corporation (DMRC) – https://delhimetrorail.com/ – visited 2026-03-09
+- Transport for London – https://tfl.gov.uk – visited 2026-03-09
+- Berlin Public Transport – https://bvg.de/en – visited 2026-03-09
