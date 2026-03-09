@@ -12,7 +12,7 @@ Branch: `doc/hiruni-research`
 | 1 | India          | Delhi Metro Rail     | https://delhimetrorail.com | 2026-03-09   |
 | 2 | USA            | Los Angeles Metro    | https://metro.net          | 2026-03-09   |
 | 3 | United Kingdom | Transport for London | https://tfl.gov.uk         | 2026-03-09   |
-|---|----------------|----------------------|----------------------------|--------------|
+
 ---
 
 ## 2. Key Features Observed
