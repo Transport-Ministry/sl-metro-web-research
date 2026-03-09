@@ -11,8 +11,8 @@
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
 | 1 | India   | Delhi Metro Rail Corporation (DMRC) | https://delhimetrorail.com/ | 2025-03-09 |
-| 2 | London  | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo   | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 2 | London  | Transport for London | https://tfl.gov.uk | 2025-03-09 |
+| 3 | Germany   | Berlin Public Transport | https://bvg.de/en | 2025-03-09 |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -87,12 +87,13 @@
 
 | Aspect | What I Noticed | Good for Sri Lanka? |
 |--------|---------------|---------------------|
-| Color scheme | Each system has a consistent brand color | ✅ Yes – use Sri Lankan national colors |
-| Navigation | Simple top nav with 4-5 main items | ✅ Yes – keep it minimal |
-| Mobile responsiveness | All three sites work well on phone | ✅ Must have |
-| Language support | Multiple languages available | ✅ Sinhala, Tamil, English needed |
-| Maps | Interactive SVG/JS maps | ✅ Priority feature |
-| Accessibility | TfL has the best accessibility info | ✅ Include for inclusivity |
+| Color scheme | all websites use a good overall color scheme, but some sites have menus or sections with colors that don’t fully match the main theme. | ✅ Yes – use Consistent colors scheme |
+| Navigation | some websites have cluttered or confusing navigation some are simple | ✅ Yes – keep it minimal |
+| Mobile responsiveness | some websites offer multiple apps, but all of them are responsive and work well on mobile devices. | ✅ Must have |
+| Language support | All websites offer multiple languages — usually the local language plus English — which helps both locals and tourists navigate easily. | ✅ Sinhala, Tamil, English needed |
+| Maps | Maps are interactive, but most integrated maps tend to be laggy and slow to load. | ✅ Key feature |
+| Accessibility | all websites provide some form of accessibility, such as readable text, contrast, or basic navigation support. | ✅ High – essential for inclusivity in Sri Lanka |
+| Icons & Symbols | some websites use icons that don’t fully match in style. | ✅ Use consistent style across site |
 
 ---
 
