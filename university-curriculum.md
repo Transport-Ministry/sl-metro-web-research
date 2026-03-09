@@ -1,8 +1,8 @@
 # University Curriculum
 
-**Name:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Name:** Wellappulige Lakshan Thenuka 
+**Date:** 2026-03-09  
+**Branch:** `doc/Lakshan51-research`
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Field | Details |
 |-------|---------|
-| University | University of Moratuwa / SLIIT / NSBM / (your university) |
-| Degree Program | BSc in Information Technology / Software Engineering |
-| Current Year | Year 2 – Semester 1 |
-| Expected Graduation | 2026 |
+| University | Horizon Campus |
+| Degree Program | BSc(hons) in Information Technology |
+| Current Year | Year 4 – Semester 1 |
+| Expected Graduation | 2027 |
 
 ---
 
@@ -21,13 +21,13 @@
 
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
-| Sem 1 | Programming Fundamentals (Python) | A | ✅ Yes |
-| Sem 1 | Database Management Systems | B+ | ✅ Yes |
-| Sem 2 | Object Oriented Programming (Java) | A- | ✅ Yes |
-| Sem 2 | Computer Networks | B | ✅ Yes |
-| Sem 2 | Web Technologies (HTML/CSS/JS) | A | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | B+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | A | ✅ Yes |
+| Sem 1 | Programming Fundamentals (Python) | C+ | ✅ Yes |
+| Sem 1 | Database Management Systems | C | ✅ Yes |
+| Sem 2 | Object Oriented Programming (Java) | B+ | ✅ Yes |
+| Sem 2 | Computer Networks | NCE | ✅ Yes |
+| Sem 2 | Emerging Technologies (HTML/CSS/JS) | C+ | ✅ Yes |
+| Sem 3 | Data Structures & Algorithms | C | ✅ Yes |
+| Sem 3 | Software Project Management| B- | ✅ Yes |
 
 ---
 
@@ -45,9 +45,9 @@
 ## 4. Skills I Have Gained
 
 ### Programming Languages
-- Python – intermediate
-- Java – intermediate
-- JavaScript – beginner-intermediate
+- Python – beginner
+- Java – beginner
+- JavaScript – beginner
 - HTML/CSS – comfortable
 
 ### Tools & Technologies
@@ -94,6 +94,6 @@
 
 | Project | What It Does | Technologies Used | Status |
 |---------|-------------|-------------------|--------|
-| Personal Portfolio | Showcases my work | HTML, CSS, JS | Completed |
+| Personal Portfolio | Showcases my work | HTML, CSS, JS |Not Completed |
 | Student Grade Calculator | Calculates GPA | Python | Completed |
 | Online Bookshop (class project) | CRUD app | PHP, MySQL | Completed |
