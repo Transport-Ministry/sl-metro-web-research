@@ -40,7 +40,7 @@
 | Y3 S1 | Human Computer Interaction(UI/UX)  | B- | ✅ Yes |
 | Y3 S1 | Information Assurance & Security  | B | ✅ Yes |
 | Y3 S1 | Data Science & Analytics  | B+ | ✅ Yes |
-| Y3 S2 | Database Systems  | pending... | ✅ Yes |
+| Y3 S2 | Database Systems(ORDB)  | pending... | ✅ Yes |
 | Y3 S2 | Network Design and Management  | pending... | ✅ Yes |
 | Y3 S2 | Programming Applications and Frameworks	  | pending... | ✅ Yes |
 | Y3 S2 | IT Project Management(python)  | pending... | ✅ Yes |
@@ -65,11 +65,13 @@
 - Java
 - PHP
 - Kotlin
+- python
 
 ### Web Technologies
-- React.js
-- Node.js
-- Express.js
+- React js
+- Next Js
+- Node js
+- Express js
 - HTML
 - CSS
 - Tailwind CSS
@@ -81,7 +83,7 @@
 
 ### DevOps & Tools
 - Git
-- GitHub
+- GitHub action
 - Docker
 - Docker Hub
 - Jenkins
@@ -98,10 +100,11 @@
 - Android Studio
 
 ### Concepts Understood
-- MVC architecture (Normal)
+- MVC architecture
 - REST API concepts
 - Relational database design
 - Microservices architecture
+- monolithic architecture
 
 ---
 
@@ -111,10 +114,10 @@
 | Area | My Confidence Level | Notes |
 |------|--------------------|----|
 | Frontend Development | ⭐⭐⭐ Comfortable | Experience using React and Tailwind |
-| Backend Development | ⭐⭐ Some experience | Built REST APIs using Node.js & Express |
+| Backend Development | ⭐⭐⭐ Comfortable | Built REST APIs using Node.js & Express |
 | Databases | ⭐⭐⭐ Comfortable | Worked with MongoDB and MySQL |
-| Git / GitHub | ⭐ Beginner | Used in multiple projects |
-| DevOps | ⭐⭐ Learning | Experience with Docker and Jenkins CI/CD |
+| Git / GitHub | ⭐ Some experience | Used in multiple projects |
+| DevOps | ⭐⭐ Learning | Experience with Docker and Jenkins, github action CI/CD |
 | Mobile Development | ⭐⭐ Intermediate | Built Android apps using Kotlin |
 
 ---
@@ -137,7 +140,7 @@
 | Inventory Supply Chain Management System | Inventory tracking with secure authentication and CI/CD pipeline | MERN Stack, JWT, Docker, Jenkins | Completed |
 | Personal Finance Tracker Mobile App | Tracks income and expenses with analytics and budgeting | Kotlin, Android Studio | Completed |
 | Community Skill Exchange Platform | Platform for users to exchange skills and services | MERN Stack, JWT Authentication | Completed |
-| Microservices Online Book Store | Learning project to understand microservices architecture by building an online bookstore with separate services | Microservices, REST APIs, Docker | In Progress |
+| Microservices Online Book Store | Learning project to understand microservices architecture by building an online bookstore with separate services | Microservices, REST APIs, Docker | completed |
 
 ---
 
