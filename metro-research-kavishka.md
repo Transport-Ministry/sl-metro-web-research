@@ -22,7 +22,7 @@
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
+![Singapore TransitLink Homepage](./screenshots/singapore--transitlink.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
