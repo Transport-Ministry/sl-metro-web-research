@@ -10,19 +10,27 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2026-03-10 |
+| 2 | London | Transport for London | https://tfl.gov.uk | 2026-03-10 |
+| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2026-03-10 |
+
+---
 
 ---
 
 *********IN PROGRESS*********
 
+---
+
+---
+
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
 ![Singapore TransitLink Homepage](./screenshots-muditha/singapore-transitlink.png)
-![Singapore TransitLink Adult Fares](./screenshots-muditha/singapore-transitlink.png)
+*Screenshot taken: 2026-03-10*
+
+![Singapore TransitLink Adult Fares](./screenshots-muditha/singapore-transitlink-adult-travel-fares.png)
 *Screenshot taken: 2026-03-10*
 
 **Features noticed:**
@@ -39,7 +47,11 @@
 
 ### 🔴 London – Transport for London (TfL)
 ![TfL Homepage](./screenshots-muditha/london-tfl.png)
+*Screenshot taken: 2026-03-10*
+
 ![TfL Bus Map](./screenshots-muditha/london-tfl-bus-map.png)
+*Screenshot taken: 2026-03-10*
+
 ![TfL New Fares](./screenshots-muditha/london-tfl-new-fares.png)
 *Screenshot taken: 2026-03-10*
 
@@ -56,7 +68,11 @@
 
 ### 🟠 Tokyo Metro
 ![Tokyo Metro Homepage](./screenshots-muditha/tokyo-metro.png)
+*Screenshot taken: 2026-03-10*
+
 ![Tokyo Metro Bus Map](./screenshots-muditha/tokyo-metro-subway-map.png)
+*Screenshot taken: 2026-03-10*
+
 ![Tokyo Metro New Fares](./screenshots-muditha/tokyo-metro-tips.png)
 *Screenshot taken: 2026-03-10*
 
@@ -71,7 +87,13 @@
 
 ---
 
+---
+
 *********CONTINUE*********
+
+---
+
+---
 
 ## 3. UI/UX Observations
 
