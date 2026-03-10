@@ -1,8 +1,8 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Researcher:** Enuka Gayashan Balasooriya 
+**Date:** 2026-03-09  
+**Branch:** `doc/gayashan-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | # | Country | System Name | URL | Date Visited |
 |---|---------|-------------|-----|--------------|
-| 1 | Singapore | SMRT / TransitLink | https://www.transitlink.com.sg | 2025-03-01 |
-| 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
-| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
+| 1 | Singapore | SimplyGo | https://www.simplygo.com.sg/ | 2026-03-10 |
+| 2 | London | Transport for London | https://tfl.gov.uk | 2026-03-10 |
+| 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2026-03-10 |
 
 > ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
 
@@ -20,17 +20,14 @@
 
 ## 2. Key Features Observed
 
-### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+### 🔵 Singapore – SimplyGo
+![Singapore SimplyGo Homepage](./screenshots/simply-go.png)
+*Screenshot taken: 2026-03-10*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
 - Fare calculator
 - Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- Has a chatbot for further clarifications
 
 **My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
 
@@ -53,11 +50,12 @@
 
 ### 🟠 Tokyo Metro
 ![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+*Screenshot taken: 2026-03-10*
 
 **Features noticed:**
+- Date time and weather information
 - Extremely detailed route map (interactive)
-- Tourist-focused features (English, Chinese, Korean)
+- Tourist-focused features (English, Chinese, Korean, etc.)
 - Station facilities info (toilets, elevators, exits)
 - Lost and found section
 - IC card (Suica/Pasmo) information

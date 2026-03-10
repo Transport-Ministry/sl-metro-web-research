@@ -1,8 +1,8 @@
 # University Curriculum
 
-**Name:** Your Full Name  
-**Date:** YYYY-MM-DD  
-**Branch:** `doc/yourname-research`
+**Name:** Enuka Gayashan Balasooriya  
+**Date:** 2026-03-09  
+**Branch:** `doc/gayashan-research`
 
 ---
 
@@ -10,9 +10,9 @@
 
 | Field | Details |
 |-------|---------|
-| University | University of Moratuwa / SLIIT / NSBM / (your university) |
-| Degree Program | BSc in Information Technology / Software Engineering |
-| Current Year | Year 2 – Semester 1 |
+| University | Horizon Campus |
+| Degree Program | BIT Hons in Networking and mobile computing |
+| Current Year | Year 4 – Semester 1 |
 | Expected Graduation | 2026 |
 
 ---
