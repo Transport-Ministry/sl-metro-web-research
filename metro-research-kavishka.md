@@ -22,7 +22,7 @@
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore--transitlink.png)
+![Singapore TransitLink Homepage](./screenshots-kavishka/singapore--transitlink.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
@@ -35,7 +35,7 @@
 ---
 
 ### 🟠 India – MTC Chennai
-![India MTC Chennai Fares](./screenshots/india-mtc.png)
+![India MTC Chennai Fares](./screenshots-kavishka/india-mtc.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
@@ -48,7 +48,7 @@
 ---
 
 ### 🔴 United Kingdom – Metrobus UK
-![UK Metrobus Homepage](./screenshots/uk-metrobus.png)
+![UK Metrobus Homepage](./screenshots-kavishka/uk-metrobus.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
@@ -62,7 +62,7 @@
 ---
 
 ### 🟢 Japan – Tokyo Metro
-![Japan Tokyo Metro Homepage](./screenshots/japan-tokyo-metro.png)
+![Japan Tokyo Metro Homepage](./screenshots-kavishka/japan-tokyo-metro.png)
 *Screenshot taken: 2026-03-08*
 
 **Features noticed:**
