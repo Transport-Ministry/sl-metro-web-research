@@ -1,8 +1,8 @@
 # University Curriculum
 
 **Name:** Sachintha Sashikpriya Keerthirathna 
-**Date:** 2002-06-12
-**Branch:** `doc/yourname-research`
+**Date:** 2026-03-09
+**Branch:** `doc/sachintha-research`
 
 ---
 
