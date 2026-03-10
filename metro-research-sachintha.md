@@ -21,23 +21,26 @@
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+![Singapore TransitLink Homepage](./screenshots/singapore-transitlink-homepage.png)
+*Screenshot taken: 2025-03-10*
+![Singapore TransitLink Homepage](./screenshots/singapore-transitlink-online-services.png)
+*Screenshot taken: 2025-03-10*
 
 **Features noticed:**
-- Interactive route map with zoom
-- Real-time train arrival times
-- Journey planner (point A to point B)
-- Fare calculator
-- Mobile app download links prominently placed
-- Multilingual support (English, Chinese, Malay, Tamil)
+- This platform use account-based ticketing systems.
+- Users can manage multiple pyament methods and view the transaction history.
+- Users can view trip history, submit claims for fare errors, and perform top-ups directly through the app or website.
+- Users receive push notifications for trip fares and claim approvals.
+- Here "My Family" feature allows users to manage and top up cards for family members 
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+
+**My observation:** Here the standout feature is the account based ticketing architecture and the family management feature. We can implement those features in Sri Lankan system also to enhance the easiness for the passenger. 
 
 ---
 
 ### 🔴 London – Transport for London (TfL)
 ![TfL Journeypage](./screenshots/london-tfl-journey.png)
+*Screenshot taken: 2025-03-09*
 ![TfL Plan Journey Page](./screenshots/london-tfl-plan-journey.png)
 *Screenshot taken: 2025-03-09*
 
@@ -47,8 +50,9 @@
 - Connecting different modes in the same platform(Tube & Rail, Buses, River Buses and National Rail)
 - Journey planner with multiple transport modes
 - Disruption alerts banner at the top
+- It includes blogs about different places
 
-**My observation:** TfL handles disruptions very transparently. Sri Lanka could benefit from a clear "service status" section so passengers aren't confused during delays.
+**My observation:** TfL handles disruptions very transparently and the passengers can book their journeys with a simple procedure. Further apart from the public transport it has connected other transport methods also. Sri Lanka could benefit this feature as people can plan their journeys simply and easily. Sri Lanka also can connect other services like railway and taxi services to give a better service for the passengers. 
 
 ---
 
