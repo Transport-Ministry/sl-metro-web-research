@@ -22,12 +22,11 @@
 | Semester | Subject | Grade | Relevant to Software Engineering? |
 |----------|---------|-------|------------------------------------|
 | Sem 1 | Programming Fundamentals (Python) | A | ✅ Yes |
-| Sem 1 | Database Management Systems | B+ | ✅ Yes |
-| Sem 2 | Object Oriented Programming (Java) | A- | ✅ Yes |
-| Sem 2 | Computer Networks | B | ✅ Yes |
-| Sem 2 | Web Technologies (HTML/CSS/JS) | A | ✅ Yes |
-| Sem 3 | Data Structures & Algorithms | B+ | ✅ Yes |
-| Sem 3 | Software Engineering Principles | A | ✅ Yes |
+| Sem 1 | Database Management Systems | B- | ✅ Yes |
+| Sem 2 | Object Oriented Programming (Java) | B | ✅ Yes |
+| Sem 2 | Computer Networks | A- | ✅ Yes |
+| Sem 2 | Web Technologies (HTML/CSS/JS) | B | ✅ Yes |
+| Sem 3 | Data Structures & Algorithms | A- | ✅ Yes |
 
 ---
 
@@ -36,7 +35,7 @@
 | Subject | Brief Description | How It Connects to This Project |
 |---------|------------------|----------------------------------|
 | Advanced Web Development | React, REST APIs | Frontend development for metro site |
-| Cloud Computing Basics | AWS / GCP intro | Hosting and deployment knowledge |
+| Cloud Computing | AWS & AZURE | Hosting and deployment knowledge |
 | Mobile Application Development | Flutter / React Native | Metro mobile app in future |
 | UI/UX Design | Figma, wireframes | Design the metro website layout |
 
@@ -52,14 +51,14 @@
 
 ### Tools & Technologies
 - Git & GitHub – learning
+- Firebase / MongoDB Atlas – intermediate
 - MySQL / PostgreSQL – basic queries
-- Figma – beginner
+- Figma – intermediate
 - VS Code – daily use
 
 ### Concepts Understood
 - MVC architecture (basic)
 - REST API concepts
-- Agile/Scrum basics (from SE Principles subject)
 - Relational database design
 
 ---
@@ -70,10 +69,10 @@
 
 | Area | My Confidence Level | Notes |
 |------|--------------------|----|
-| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 2 small projects |
+| Frontend (HTML/CSS/JS) | ⭐⭐⭐ Comfortable | Built 3 small projects |
 | Backend (Node/Python) | ⭐⭐ Some experience | Only done in class exercises |
 | Databases | ⭐⭐ Basic | Can write SELECT/JOIN queries |
-| Git / GitHub | ⭐ Beginner | This is my first real Git activity |
+| Git / GitHub | ⭐⭐ Some | Used github for some group projects |
 | UI/UX Design | ⭐⭐ Some | Used Figma once in a class assignment |
 
 ---
@@ -95,5 +94,4 @@
 | Project | What It Does | Technologies Used | Status |
 |---------|-------------|-------------------|--------|
 | Personal Portfolio | Showcases my work | HTML, CSS, JS | Completed |
-| Student Grade Calculator | Calculates GPA | Python | Completed |
-| Online Bookshop (class project) | CRUD app | PHP, MySQL | Completed |
+| Green connect | weather updates, a marketplace, and agricultural news. | Java | Completed |

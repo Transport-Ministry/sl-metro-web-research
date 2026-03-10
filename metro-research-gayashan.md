@@ -112,6 +112,6 @@ The most important feature for Sri Lanka would be **multilingual support** since
 
 ## 6. References
 
-- TransitLink Singapore – https://www.transitlink.com.sg – visited 2025-03-01
-- Transport for London – https://tfl.gov.uk – visited 2025-03-01
-- Tokyo Metro – https://www.tokyometro.jp/en – visited 2025-03-02
+- TransitLink Singapore – https://www.transitlink.com.sg – visited 2026-03-10
+- Transport for London – https://tfl.gov.uk – visited 2026-03-10
+- Tokyo Metro – https://www.tokyometro.jp/en – visited 2026-03-10
