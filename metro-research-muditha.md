@@ -1,7 +1,7 @@
 # Metro System Research & Brainstorm
 
-**Researcher:** Your Full Name  
-**Date:** YYYY-MM-DD  
+**Researcher:** Muditha Bandara  
+**Date:** 2026-03-10
 **Branch:** `doc/yourname-research`
 
 ---
@@ -14,15 +14,16 @@
 | 2 | London | Transport for London | https://tfl.gov.uk | 2025-03-01 |
 | 3 | Tokyo | Tokyo Metro | https://www.tokyometro.jp/en | 2025-03-02 |
 
-> ⚠️ **Note:** You must visit these websites yourself and take your own screenshots. Do not copy content from AI tools.
-
 ---
+
+*********IN PROGRESS*********
 
 ## 2. Key Features Observed
 
 ### 🔵 Singapore – TransitLink
-![Singapore TransitLink Homepage](./screenshots/singapore-transitlink.png)
-*Screenshot taken: 2025-03-01*
+![Singapore TransitLink Homepage](./screenshots-muditha/singapore-transitlink.png)
+![Singapore TransitLink Adult Fares](./screenshots-muditha/singapore-transitlink.png)
+*Screenshot taken: 2026-03-10*
 
 **Features noticed:**
 - Interactive route map with zoom
@@ -32,13 +33,15 @@
 - Mobile app download links prominently placed
 - Multilingual support (English, Chinese, Malay, Tamil)
 
-**My observation:** The fare calculator is very user-friendly. Even a first-time visitor can plan a trip easily.
+**My observation:** The overall navigation seems not user friendly. It's difficult to find important features like route maps for the average user. The fare calculator seems very useful.
 
 ---
 
 ### 🔴 London – Transport for London (TfL)
-![TfL Homepage](./screenshots/london-tfl.png)
-*Screenshot taken: 2025-03-01*
+![TfL Homepage](./screenshots-muditha/london-tfl.png)
+![TfL Bus Map](./screenshots-muditha/london-tfl-bus-map.png)
+![TfL New Fares](./screenshots-muditha/london-tfl-new-fares.png)
+*Screenshot taken: 2026-03-10*
 
 **Features noticed:**
 - Live status updates for each line
@@ -52,8 +55,10 @@
 ---
 
 ### 🟠 Tokyo Metro
-![Tokyo Metro Homepage](./screenshots/tokyo-metro.png)
-*Screenshot taken: 2025-03-02*
+![Tokyo Metro Homepage](./screenshots-muditha/tokyo-metro.png)
+![Tokyo Metro Bus Map](./screenshots-muditha/tokyo-metro-subway-map.png)
+![Tokyo Metro New Fares](./screenshots-muditha/tokyo-metro-tips.png)
+*Screenshot taken: 2026-03-10*
 
 **Features noticed:**
 - Extremely detailed route map (interactive)
@@ -65,6 +70,8 @@
 **My observation:** Tokyo provides station-level details which is great. For Sri Lanka, showing nearby landmarks for each station would help tourists.
 
 ---
+
+*********CONTINUE*********
 
 ## 3. UI/UX Observations
 

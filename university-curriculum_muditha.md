@@ -1,7 +1,7 @@
 # University Curriculum
 
 **Name:** Muditha Bandara
-**Date:** 2000-02-10  
+**Date:** 2026-03-09
 **Branch:** `doc/muditha-research`
 
 ---
@@ -25,41 +25,31 @@
 | Yr 1 | Sem 1    | Introduction to Computer Systems                     | A  | ✅ Yes |
 | Yr 1 | Sem 1    | Mathematics for Computing                            | A+ | ✅ Yes |
 | Yr 1 | Sem 1    | Communication Skills                                 | B+ | ✅ Yes |
-| **Semester GPA** | **3.86** |  |  |  |
-|  |  |  |  |  |
 | Yr 1 | Sem 2    | Object Oriented Concepts (C++)                       | B+ | ✅ Yes |
 | Yr 1 | Sem 2    | Software Process Modeling                            | A  | ✅ Yes |
 | Yr 1 | Sem 2    | English for Academic Purposes                        | B+ | ✅ Yes |
 | Yr 1 | Sem 2    | Information Systems & Data Modeling (SQL)            | A  | ✅ Yes |
 | Yr 1 | Sem 2    | Internet & Web Technologies (HTML/CSS/JS/PHP)        | A- | ✅ Yes |
-| **Semester GPA** | **3.71** |  |  |  |
-|  |  |  |  |  |
 | Yr 2 | Sem 1    | Software Engineering                                 | A  | ✅ Yes |
 | Yr 2 | Sem 1    | Object Oriented Programming (Java)                   | A  | ✅ Yes |
 | Yr 2 | Sem 1    | Database Management Systems (SQL, T-SQL)             | A- | ✅ Yes |
 | Yr 2 | Sem 1    | Computer Networks                                    | B+ | ✅ Yes |
 | Yr 2 | Sem 1    | Operating Systems and System Administration (Ubuntu) | A  | ✅ Yes |
-| **Semester GPA** | **3.8** |  |  |  |
-|  |  |  |  |  |
 | Yr 2 | Sem 2    | Mobile Application Development (Kotlin/Figma)        | A- | ✅ Yes |
 | Yr 2 | Sem 2    | Data Structures & Algorithms (Python)                | B+ | ✅ Yes |
 | Yr 2 | Sem 2    | IT Project (MERN)                                    | A- | ✅ Yes |
 | Yr 2 | Sem 2    | Professional Skills                                  | A  | ✅ Yes |
 | Yr 2 | Sem 2    | Employability Skills Development - Seminar           | B- | ✅ Yes |
 | Yr 2 | Sem 2    | Probability & Statistics                             | A  | ✅ Yes |
-| **Semester GPA** | **3.694** |  |  |  |
-|  |  |  |  |  |
 | Yr 3 | Sem 1    | Employability Skills Development - Seminar           | A+ | ✅ Yes |
 | Yr 3 | Sem 1    | Software Engineering Process & Quality Management    | B  | ✅ Yes |
 | Yr 3 | Sem 1    | Distributed Systems (Docker)                         | B- | ✅ Yes |
 | Yr 3 | Sem 1    | Software Architecture (Cypress)                      | C+ | ✅ Yes |
 | Yr 3 | Sem 1    | Application Frameworks (Git, MERN)                   | B  | ✅ Yes |
-| **Semester GPA** | **2.75** |  |  |  |
 | Yr 3 | Sem 2    | User Experience Engineering (React Native)           | B+ | ✅ Yes |
 | Yr 3 | Sem 2    | Database Systems (Orcale SQL, PL-SQL)                | B+ | ✅ Yes |
 | Yr 3 | Sem 2    | Case Studies in Software Engineering (MERN)          | B+ | ✅ Yes |
 | Yr 3 | Sem 2    | Software Project Management (Agile, Jira)            | B+ | ✅ Yes |
-| **Semester GPA** | **3.3** |  |  |  |
 
 ---
 
